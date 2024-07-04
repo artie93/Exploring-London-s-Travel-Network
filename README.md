@@ -1,1 +1,2 @@
 # Exploring-London-s-Travel-Network
+In this SQL project, I tackled three analytical challenges using structured queries to extract meaningful insights from London's transportation data. The queries I crafted showcased my proficiency in SQL and data manipulation techniques. These tasks not only underscore my SQL skills but also highlight my capacity to translate raw data into actionable insights crucial for decision-making in transport and aviation contexts.
