@@ -1,2 +1,3 @@
 # Exploring-London-s-Travel-Network
 In this SQL project, I tackled three analytical challenges using structured queries to extract meaningful insights from London's transportation data. The queries I crafted showcased my proficiency in SQL and data manipulation techniques. These tasks not only underscore my SQL skills but also highlight my capacity to translate raw data into actionable insights crucial for decision-making in transport and aviation contexts.
+![Transport-for-London-1 (1)](https://github.com/artie93/Exploring-London-s-Travel-Network/assets/115626610/20752e37-5dc9-47ba-b9fa-4351576b84ac)
